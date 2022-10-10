@@ -1,0 +1,77 @@
+{
+  "name": "De Nauts #309",
+  "symbol": "CDUDU",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://nftstorage.link/ipfs/bafybeidcfryvt2m44xwmftsp2ivhnrbpe5rnl5rebltflwg447o2wpbbwy/106.png",
+  "attributes": [
+  {
+      "trait_type": "color",
+      "value": "orange",
+      "proba": 8.34
+    },
+    {
+      "trait_type": "fur",
+      "value": "chinchilla",
+      "proba": 24.69
+    },
+    {
+      "trait_type": "cloth",
+      "value": "golden_jacket_white_tshirt",
+      "proba": 0.33
+    },
+    {
+      "trait_type": "earring",
+      "value": "circle",
+      "proba": 5.22
+    },
+    {
+      "trait_type": "glass",
+      "value": "black",
+      "proba": 3.83
+    },
+    {
+      "trait_type": "hat",
+      "value": "avalanche_striped",
+      "proba": 4.87
+    },
+    {
+      "trait_type": "necklace",
+      "value": "null",
+      "proba": 59.27
+    },
+    {
+      "trait_type": "mouth",
+      "value": "gag_ball",
+      "proba": 3.75
+    },
+    {
+      "trait_type": "rarity_point",
+      "value": 42,
+      "proba": 0.39
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Epic",
+      "proba": 4.78
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 29.245058,
+      "proba": 0
+    },
+    {
+      "trait_type": "Ranking",
+      "value": 481,
+      "proba": 0
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
